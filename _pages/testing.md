@@ -194,7 +194,7 @@ Sample YAML file:
 Login.gov collects a phone number during the proofing process. In the production environment, Login.gov checks that this phone number is associated with the applicant. The following phone numbers simulate specific events:
 
 * `703-555-5555` - simulates a phone number that couldn't be verified as belonging to the user
-* `703-555-5888` - simulates a timeout during verification
+* `703-555t-5888` - simulates a timeout during verification
 * `703-555-5999` - simulates a phone number that couldn't be contacted
 
 Use any other phone number for typical testing purposes.
